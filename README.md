@@ -13,3 +13,6 @@ of digits that'll be there on the card. For example AMEX cards don't have 16 dig
 
 ![alt-text](https://github.com/anupamchugh/VisionCreditScan/blob/master/vision-credit-card-scanner-output.gif)
 
+## Article
+[Scanning Credit Cards Using Computer Vision in iOS](https://heartbeat.fritz.ai/scanning-credit-cards-with-computer-vision-on-ios-c3f4d8912de4)
+
